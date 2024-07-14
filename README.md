@@ -1,2 +1,2 @@
 # VCProject_TatvaSoft_Internship
-This is a 'Virtual Community Support' Project using Angular, .NET and PostgreSQL.
+This project is a comprehensive solution for virtual community support, built using Angular for the frontend, .NET for the backend, and PostgreSQL as the database.
